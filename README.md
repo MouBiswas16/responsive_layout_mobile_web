@@ -1,4 +1,4 @@
-*** Responvie Design Example (Youtube Responsive Layput Example) ***
+***************************** Responvie Design Example (Youtube Responsive Layput Example) ***************************** 
 
 - For Mobile, Desktop, Tablet
 
