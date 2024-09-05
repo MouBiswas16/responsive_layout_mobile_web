@@ -1,3 +1,7 @@
+*** Responvie Design Example (Youtube Responsive Layput Example) ***
+
+- For Mobile, Desktop, Tablet
+
 # responsive_layout_mobile_web
 
 A new Flutter project.
