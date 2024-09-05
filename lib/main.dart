@@ -15,6 +15,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Responsive Layout Example',
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primarySwatch: Colors.deepPurple,
+      ),
       home: HomePage(),
     );
   }
